@@ -1,9 +1,6 @@
 ; SDU Bilgisayar Muhendisligi Bolumu
 ; 
-; Mikroislemciler dersi 1.2 ödev uygulama kodu
-; 
-; 28.10.2016
-; Yrd. Doc. Dr. Fatih Gokce
+; Mahmut YETİŞİR
 
 .equ RAMEND, 0x21ff
 .equ SREG, 0x3f
